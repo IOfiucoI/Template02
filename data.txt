@@ -1,6 +1,5 @@
 git init - Se inializa el repositorio
 git status - Verifica cambios
-
 git config --global user.name "Marco"
 git config --global user.email "marco_rg@msn.com"
 git commit -m "Inicio de repositorio"
