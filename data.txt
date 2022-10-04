@@ -5,7 +5,7 @@ git config --global user.email "marco_rg@msn.com"
 git commit -m "Inicio de repositorio"
 git diff DETECTA DIFERENCIAS
 git log LISTA DE VERSIONES
-git checkout --. TODOS LOS ARCHIVOS
+git checkout --. RECUPERA ARCHIVOS EN COMMIT
 git checkout --index.html ARCHIVO ESPECIFICO
 git remote add origin URL DE REPOSITORIO
 git push -u origin master ACTUALIZA REPOSITORIO (UPDATE) 
