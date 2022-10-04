@@ -8,5 +8,5 @@ git log LISTA DE VERSIONES
 git checkout --. TODOS LOS ARCHIVOS
 git checkout --index.html ARCHIVO ESPECIFICO
 git remote add origin URL DE REPOSITORIO
-git push -u origin master ACTUALIZA REPOSITORIO
-git clone URL para copiar repositorio o por ZIP
+git push -u origin master ACTUALIZA REPOSITORIO (UPDATE) 
+git clone (URL para copiar repositorio o por ZIP)
