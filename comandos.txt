@@ -1,4 +1,11 @@
 git init - Se inializa el repositorio
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/IOfiucoI/Template03.git
+git push -u origin main
+
+
 git status - Verifica cambios
 git config --global user.name "Marco"
 git config --global user.email "marco_rg@msn.com"
